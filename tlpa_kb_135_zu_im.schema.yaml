@@ -1,0 +1,95 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: tlpa_135_kb_zu_im
+  name: 135拼音法按鍵練習
+  version: "0.1"
+  author:
+    - Alan Jui <AlanJui.1960@gmail.com>
+  description: |
+    以「台語音標之拼音字母」輸入「135拼音法注音符號」
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [漢文, ABC]
+  - name: full_shape
+    reset: 0
+    states: [半形, 全形]
+
+engine:
+  processors:
+    - punctuator
+    - selector
+    - express_editor
+  segmentors:
+    - punct_segmentor
+  translators:
+    - punct_translator
+
+punctuator:
+  half_shape: &symtable
+    "1" : ㄅ
+    "!" : ㄅㆷ
+    "q" : ㄆ
+    "a" : ㄇ
+    "2" : ㄉ
+    "w" : ㄊ
+    "s" : ㄋ
+    "x" : ㄌ
+    "e" : ㄍ
+    "E" : ㄍㆷ
+    "d" : ㄎ
+    "c" : ㄏ
+    "y" : ㄗ
+    "h" : ㄘ
+    "n" : ㄙ
+    "b" : ㄖ
+    "Y" : ㄐ
+    "H" : ㄑ
+    "N" : ㄒ
+    "?" : ㄥ
+    "u" : ㄧ
+    "j" : ㄨ
+    "m" : ㄇ
+    "8" : ㄚ
+    "i" : ㄛ
+    "k" : ㄜ
+    "," : ㄝ
+    "9" : ㄞ
+    "l" : ㄠ
+    "." : ｎ
+    "0" : ㄢ
+    "p" : ㄣ
+    ";" : ㄤ
+    "/" : ㄥ
+    "-" : ㄦ
+    "U" : ㄥㄧ
+    "J" : ㄥㄨ
+    "*" : ㄥㄚ
+    "I" : ㄥㄛ
+    "<" : ㄥㄝ
+    "(" : ㄥㄞ
+    "L" : ㄥㄠ
+    "O" : ㄛㄇ
+    "A" : ㄚㄇ
+    ":" : ㄛㄥ
+    # " " : ˉ
+    # "4" : ˋ
+    # "3" : ˪
+    # "6" : ˊ
+    # "5" : ˫
+    # "7" : ˙
+    "=": [ "〔〕", "【】" ]
+    " ": [ "ˉ", "1", "¹" ]
+    "4": [ "ˋ", "2", "²" ]
+    "3": [ "˪", "3", "³" ]
+    "6": [ "ˊ", "5", "⁵" ]
+    "5": [ "˫", "7", "⁷" ]
+    "7": [ "˙", "4", "8", "0", "⁴", "⁸", "⁰" ]
+    ".": [ "¹", "²", "³", "⁴", "⁵", "⁷", "⁸", "⁰" ]
+    "z": [ "", "", "", "ㆷ", "ㆴ", "ㆵ", "" ]
+full_shape:
+  ".": 。
+
