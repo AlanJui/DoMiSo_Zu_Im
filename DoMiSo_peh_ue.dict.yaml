@@ -3,6 +3,8 @@
 #
 # 河洛白話音
 #
+# - DoMiSo_khoo_siong_iong_si_lui # 常用辭彙
+# - DoMiSo_khoo_tai_uan_si_lui    # 常用俗諺
 ---
 name: tl_ji_khoo_peh_ue
 version: "0.1.0.0"
@@ -15,13 +17,9 @@ columns:
   - stem    #用法舉例
   - create  #建立日期
 import_tables:
-  - tl_ji_khoo_kah_kut_bun	      # 甲骨文考證漢字庫
-  # - tl_ji_khoo_peh_ue_cu_ting	    # 個人自訂擴充字庫
-  # - tl_ji_khoo_moetai
-  # - tl_ji_khoo_bun_thok	          # 文讀音字庫（雅俗通十五音）
-  # - tl_ji_khoo_ciann_ji
-  # - tl_ji_khoo_siong_iong_si_lui
-  # - tl_ji_khoo_tai_uan_si_lui
+  - DoMiSo_kah_kut_bun	      # 甲骨文考證漢字庫
+  # - DoMiSo_peh_ue_cu_ting	    # 個人自訂擴充字庫
+  # - DoMiSo_bun_thok	          # 文讀音字（雅俗通十五音）
 ...
 #漢字	台羅音標	常用度	摘要說明	建立時間
 九	kau2	0.6		2024/10/10 22:04
