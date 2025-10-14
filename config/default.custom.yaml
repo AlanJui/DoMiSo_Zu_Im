@@ -6,19 +6,24 @@ customization:
   rime_version: 1.11.2
 patch:
   schema_list:
+    # 135 拼音法
+    - {schema: DoMiSo_kb_zu_im}             # 135 拼音法鍵盤
+    - {schema: DoMiSo_Zu_Im}                # 135 拼音法（使用注音符號輸入）
+    - {schema: DoMiSo_Phing_Im}             # 135 拼音法（使用台語音標輸入）
+    #------------------------------------------------------------------------
     # RIME 官方輸入法
     # - {schema: luna_pinyin}
     # - {schema: luna_pinyin_simp}
     # - {schema: luna_pinyin_fluency}
     # - {schema: stroke}
-    - {schema: cangjie5}
-    - {schema: cangjie5_express}
-    - {schema: bopomofo}
-    - {schema: bopomofo_express}
-    - {schema: bopomofo_tw}
-    - {schema: terra_pinyin}
-    - {schema: luna_pinyin_tw}
-    - {schema: stroke}
+    # - {schema: cangjie5}
+    # - {schema: cangjie5_express}
+    # - {schema: bopomofo}
+    # - {schema: bopomofo_express}
+    # - {schema: bopomofo_tw}
+    # - {schema: terra_pinyin}
+    # - {schema: luna_pinyin_tw}
+    # - {schema: stroke}
     #------------------------------------------------------------------------
     # 個人常用 RIME 輸入法
     # - {schema: taigi_tps}
@@ -28,15 +33,10 @@ patch:
     # - {schema: ngsth_bun}
     #------------------------------------------------------------------------
     # 台語ㄅㄆㄇ
-    # - {schema: tai_gi_bo_po_mo}             
+    # - {schema: tai_gi_bo_po_mo}
     #------------------------------------------------------------------------
     # 實驗/測試用
-    - {schema: my_bopomofo}
-    #------------------------------------------------------------------------
-    # 135 拼音法
-    - {schema: DoMiSo_kb_zu_im}             # 135 拼音法鍵盤
-    - {schema: DoMiSo_Zu_Im}                # 135 拼音法（使用注音符號輸入）
-    - {schema: DoMiSo_Phing_Im}             # 135 拼音法（使用台語音標輸入）
+    # - {schema: my_bopomofo}
     #------------------------------------------------------------------------
   # engine:
   #   translators:

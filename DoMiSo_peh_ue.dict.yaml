@@ -5,23 +5,32 @@
 #
 # - DoMiSo_khoo_siong_iong_si_lui # 常用辭彙
 # - DoMiSo_khoo_tai_uan_si_lui    # 常用俗諺
+#
+# 字典欄位說明：
+#   - text    #漢字／詞彙
+#   - code    #台灣音標（TLPA)拼音字母
+#   - weight  #常用度（優先顯示度）
+#   - stem    #用法舉例
+#   - create  #建立日期
 ---
 name: tl_ji_khoo_peh_ue
 version: "0.1.0.0"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
-  - text    #漢字／詞彙
-  - code    #台灣音標（TLPA)拼音字母
-  - weight  #常用度（優先顯示度）
-  - stem    #用法舉例
-  - create  #建立日期
+  - text
+  - code
+  - weight
+  - stem
+  - create
 import_tables:
   - DoMiSo_kah_kut_bun	      # 甲骨文考證漢字庫
   # - DoMiSo_peh_ue_cu_ting	    # 個人自訂擴充字庫
   # - DoMiSo_bun_thok	          # 文讀音字（雅俗通十五音）
 ...
-#漢字	台羅音標	常用度	摘要說明	建立時間
+着	tioh0	0.9		2025/10/14 22:14
+是	si0	0.9		2025/10/14 22:14
+矣	ah0	0.01		2024/10/10 22:04
 九	kau2	0.6		2024/10/10 22:04
 了	liau2	0.1		2024/10/10 22:04
 八	pat4	0.8		2024/10/10 22:04
@@ -240,7 +249,6 @@ import_tables:
 牢	tiau5	0.1		2024/10/10 22:04
 男	lam5	0.1		2024/10/10 22:04
 甸	tian7	0.01		2024/10/10 22:04
-矣	ah0	0.01		2024/10/10 22:04
 私	sai1	0.5	私奇, 就是 自己 所 積聚 ê 錢.	2024/10/10 22:04
 罕	han2	0.01		2024/10/10 22:04
 肖	siau3	0.01		2024/10/10 22:04
