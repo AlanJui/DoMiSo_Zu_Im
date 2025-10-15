@@ -163,7 +163,9 @@ translator:
     - xlit|;\_/-[].|12357480|
   comment_format:
     # 引用 DoMiSo_Zu_Im 的 comment_format 設定
-    __include: DoMiSo_Zu_Im:/translator/comment_format
+    # __include: DoMiSo_Zu_Im:/translator/comment_format
+    __path:
+      - DoMiSo_Zu_Im:/translator/comment_format
 
 reverse_lookup:
   dictionary: luna_pinyin
