@@ -17,7 +17,8 @@
       - 採【台羅八聲調】；
       - 使用數值標示聲調，以利閱讀。
 
-<img width="979" height="666" alt="image" src="https://github.com/user-attachments/assets/f7420b78-34cc-4506-9d03-bc59988c1338" />
+![2025-10-21_20-34-31](https://github.com/user-attachments/assets/cb6beb1c-6b19-4a2f-abd1-1cb470ea4edb)
+
 
 
 ## 安裝作業
