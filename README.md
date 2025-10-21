@@ -58,6 +58,9 @@ RIME 在不同作業系統之間，各有不同的「軟體套件名稱」。其
 
 ## 聲調按鍵
 
+<img alt="image" src="https://github.com/user-attachments/assets/996c8da9-add8-4340-92bc-3273879f171d" />
+
+
 ### 四聲八調調名與調值
 
 <img width="970" height="337" alt="image" src="https://github.com/user-attachments/assets/ceeb0903-ab26-40f4-a5b0-41953c5e82d0" />
@@ -85,16 +88,4 @@ RIME 在不同作業系統之間，各有不同的「軟體套件名稱」。其
 
 - [Fira Sans](https://github.com/mozilla/Fira)
 
-![操作畫面](./docs/static/img/rime-taigi.png)
-| 調號 | 四聲八調 | 聲調按鍵 | 漢字 | 台羅拼音 | 按鍵輸入 |
-| :--: | :-------- | :------: | :--: | :------- | :------- |
-| 1 | 陰平 (a) | [ | 東 | tang | tang[ |
-| 2 | 陰上 (á) | / | 黨 | tóng | tong/ |
-| 3 | 陰去 (à) | \ | 棟 | tòng | tong\ |
-| 4 | 陰入 (ah) | ] | 督 | tok | tok] |
-| 5 | 陽平 (â) | 9 | 同 | tông | tong9 |
-| 6 | 陽上 (ǎ) | 0 | 動 | tǒng | tong0 |
-| 7 | 陽入 (ā) | - | 洞 | tōng | tong- |
-| 8 | 陽去 (a̍h) | ' | 毒 | to̍k | tok' |
 
-![注音符號鍵盤](./docs/static/img/keyboard.png)
