@@ -14,8 +14,8 @@
   1.  羅馬拼音字母，鼻化韻母採「前綴識別標示法」，如：siann ==> siaⁿ1 ==> sⁿia1 ）
   2.  【侯選清單】：採兩欄標示〔siaⁿ¹〕【ㄒㄧㆩˉ】
   3.  【聲調標示】：
-  - 採【台羅八聲調】；
-  - 使用數值標示聲調，以利閱讀。
+    - 採【台羅八聲調】；
+    - 使用數值標示聲調，以利閱讀。
 
 ## 安裝作業
 
@@ -54,36 +54,22 @@ RIME 在不同作業系統之間，各有不同的「軟體套件名稱」。其
 
 ## 輸入法鍵盤
 
-### 河洛白話
+<img alt="image" src="https://github.com/user-attachments/assets/737558c8-e04d-458a-b3a7-2f5b601595f9" />
 
-河洛輸入法允許使用者只輸入【羅馬拼音字母】，推導相對映可能之漢字，並顯示於輸入法
-之【候選字】清單中，供使用者選擇；至於「聲調」則可略去不用指明。但聲調數值之輸入
-，可使輸入法精準地縮小【候選字】之範圍，更容易快速找到所要輸入之漢字。對於喜歡
-自行輸入聲調數值之使用者，可參考以下之鍵盤說明，於羅馬拼音字母之後補入「聲調」。
+## 聲調按鍵
 
-![聲調鍵盤](./docs/static/img/keymap_tlpa_peh_ue.png)
+### 四聲八調調名與調值
 
-### 河洛方音
+<img width="970" height="337" alt="image" src="https://github.com/user-attachments/assets/ceeb0903-ab26-40f4-a5b0-41953c5e82d0" />
 
-[方音符號](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E6%96%B9%E9%9F%B3%E7%AC%A6%E8%99%9F)
-有人簡稱為：「台語注音符號」。顧名思義可知：這是一套將國語注音符號改良，可用來標注
-台灣河洛話的注音符號系統。
+<img width="954" height="692" alt="image" src="https://github.com/user-attachments/assets/2a9bb132-a38b-4bf5-b289-d72c1ca5b6d7" />
 
-![方音符號表](./docs/static/img/hong_im_fu_ho_piau.png)
 
-【河洛方音輸入法】使用之聲母符號及韻母符號，各注音符號之按鍵位置，請參考下圖。
+### W聲調圖
+<img alt="image" src="https://github.com/user-attachments/assets/dc785e8f-01f0-4d00-be7d-dc64275cc170" />
 
-![方音符號鍵盤](./docs/static/img/keymap_tlpa_fong_im.png)
 
-### 河洛注音
 
-【河洛注音輸入法】這是個人研究用之輸入法，請慎用！發展這套輸入法之目的，最主要
-是個人對「羅馬字拼音字母」一直用不慣；但在學著使用「方音符號」的過程，覺得這套
-方法有些複雜。有回在 YouTube 看到[1. 台語音標，只須用國語注音符號 【台語古今談 - ㄅㄆㄇ】](https://www.youtube.com/watch?v=EEndKSmeG5I)
-這影片深受啟發，所以也想做個試驗：「如何運用現有的注音符號與方音符號，使其更為簡化，
-可為河洛話標讀音」。
-
-![注音符號鍵盤](./docs/static/img/keymap_tlpa_cu_im.png)
 
 ## 字形
 
