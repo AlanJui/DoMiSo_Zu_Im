@@ -1,0 +1,96 @@
+# Office 臨時檔案和工作檔案
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Microsoft Office 臨時檔案
+~$*
+~*.doc*
+~*.ppt*
+~*.xls*
+*.~vsd*
+
+# Word 臨時檔案
+~$*.doc
+~$*.docx
+~$*.dot
+~$*.dotx
+~$*.dotm
+*.tmp
+
+# Excel 臨時檔案
+~$*.xls
+~$*.xlsx
+~$*.xlsm
+~$*.xlsb
+~$*.xlt
+~$*.xltx
+~$*.xltm
+*.xlk
+
+# PowerPoint 臨時檔案
+~$*.ppt
+~$*.pptx
+~$*.pps
+~$*.ppsx
+~$*.pot
+~$*.potx
+~$*.potm
+
+# Visio 臨時檔案
+~$*.vsd
+~$*.vsdx
+~$*.vss
+~$*.vssx
+~$*.vst
+~$*.vstx
+
+# OneNote 臨時檔案
+*.onetoc2
+*.onetmp
+*.onepkg
+*.cache
+
+# Access 臨時檔案
+*.ldb
+*.laccdb
+
+# Project 臨時檔案
+*.mpp.bak
+
+# Publisher 臨時檔案
+*.pub.bak
+
+# Windows 縮圖快取
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS 系統檔案
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 一般編輯器備份檔案
+*~
+*.swp
+*.swo
+*#
+.#*
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# 其他常見的臨時檔案
+*.log
+*.pid
+*.seed
+*.pid.lock
