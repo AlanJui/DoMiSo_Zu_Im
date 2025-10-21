@@ -1,0 +1,30 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 河洛白話音
+#
+# - DoMiSo_khoo_siong_iong_si_lui # 常用辭彙
+# - DoMiSo_khoo_tai_uan_si_lui    # 常用俗諺
+#
+# 字典欄位說明：
+#   - text    #漢字／詞彙
+#   - code    #台灣音標（TLPA)拼音字母
+#   - weight  #常用度（優先顯示度）
+#   - stem    #用法舉例
+#   - create  #建立日期
+---
+name: DoMiSo_peh_ue
+version: "0.1.0.0"
+sort: by_weight
+use_preset_vocabulary: false
+columns:
+  - text
+  - code
+  - weight
+  - stem
+  - create
+import_tables:
+  - DoMiSo_kah_kut_bun	      # 甲骨文考證漢字庫
+  # - DoMiSo_peh_ue_cu_ting	    # 個人自訂擴充字庫
+  # - DoMiSo_bun_thok	          # 文讀音字（雅俗通十五音）
+...
