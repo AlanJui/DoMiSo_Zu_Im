@@ -14,8 +14,8 @@
   1. 羅馬拼音字母，鼻化韻母採「前綴識別標示法」，如下行所示；
   2. 【侯選清單】：採兩欄標示〔sⁿia5〕 【ㄒㄥㄧㄚˇ】；
   3. 【聲調標示】：
-      - 採【台羅八聲調】；
-      - 使用數值標示聲調，以利閱讀。
+     - 採【台羅八聲調】；
+     - 使用數值標示聲調，以利閱讀。
 
 ![2025-10-21_20-34-31](https://github.com/user-attachments/assets/cb6beb1c-6b19-4a2f-abd1-1cb470ea4edb)
 
@@ -117,14 +117,14 @@ RIME 設定檔名稱為：`default.custom.yaml`，各作業系統之 RIME 設定
 
 | 調號 | 四聲八調   | 聲調按鍵 | 漢字 | 台語音標 | 按鍵輸入 |
 | :--: | :--------- | :------: | :--: | :------- | :------- |
-| 1    | 陰平 (ㄚ) | \<SP\>   |  東  |  tong1   |ㄊㆲ     |
-| 2    | 陰上 (ㄚˋ) | 4        |  黨  |  tong2   |ㄊㆲˋ     |
-| 3    | 陰去 (ㄚ˪) | 3        |  棟  |  tong3   |ㄊㆲ˪     |
-| 4    | 陰入 (ㄚ˙) | 7        |  督  |  tok4    |ㄊㆦㆻ    |
-| 5    | 陽平 (ㄚˊ) | 6        |  同  |  tong5   |ㄊㆲˊ     |
-| 6    | 陽上 (ㄚˋ) | 4        |  動  |  tong6   |ㄊㆲˋ     |
-| 7    | 陽去 (ㄚ˫) | 5        |  洞  |  tong7   |ㄊㆲ˫     |
-| 8    | 陽入 (ㄚ˙) | 7        |  毒  |  tok8    |ㄊㆦㆻ˙   |
+|  1   | 陰平 (ㄚ)  |  \<SP\>  |  東  | tong1    | ㄊㆲ     |
+|  2   | 陰上 (ㄚˋ) |    4     |  黨  | tong2    | ㄊㆲˋ    |
+|  3   | 陰去 (ㄚ˪) |    3     |  棟  | tong3    | ㄊㆲ˪    |
+|  4   | 陰入 (ㄚ˙) |    7     |  督  | tok4     | ㄊㆦㆻ   |
+|  5   | 陽平 (ㄚˊ) |    6     |  同  | tong5    | ㄊㆲˊ    |
+|  6   | 陽上 (ㄚˋ) |    4     |  動  | tong6    | ㄊㆲˋ    |
+|  7   | 陽去 (ㄚ˫) |    5     |  洞  | tong7    | ㄊㆲ˫    |
+|  8   | 陽入 (ㄚ˙) |    7     |  毒  | tok8     | ㄊㆦㆻ˙  |
 
 ## 拼音輸入法
 
@@ -134,17 +134,17 @@ RIME 設定檔名稱為：`default.custom.yaml`，各作業系統之 RIME 設定
 
 ## 聲調按鍵
 
-| 調號 | 四聲八調   | W聲調圖   | 聲調按鍵 |  漢字 | 台語音標  | 按鍵輸入 |
-| :--: | :--------- | :------ | :------: | :--: | :------- | :------- |
-| 1    | 陰平 (a)   | 高音調   | ;        |  東  |  tong1   | tong;    |
-| 7    | 陽去 (ā)   | 中音調   | -        |  洞  |  tong7   | tong-    |
-| 3    | 陰去 (à)   | 低音調   | _        |  棟  |  tong3   | tong_    |
-| 2    | 陰上 (á)   | 高降調   | \        |  黨  |  tong2   | tong\\   |
-| 5    | 陽平 (â)   | 低升調   | /        |  同  |  tong5   | tong/    |
-| 4    | 陰入 (ah)  | 低促調   | [        |  督  |  tok4    | tok[     |
-| 8    | 陽入 (a̍h)  | 高促調   | ]        |  毒  |  tok8    | tok]     |
-| 0    | 陰入 (ah)  | 低促調   | .        |  督  |  tok0    | tok.     |
-| 0    | 陽入 (a̍h)  | 高促調   | .        |  毒  |  tok0    | tok.     |
+| 調號 | 四聲八調  | W聲調圖 | 聲調按鍵 | 漢字 | 台語音標 | 按鍵輸入 |
+| :--: | :-------- | :------ | :------: | :--: | :------- | :------- |
+|  1   | 陰平 (a)  | 高音調  |    ;     |  東  | tong1    | tong;    |
+|  7   | 陽去 (ā)  | 中音調  |    -     |  洞  | tong7    | tong-    |
+|  3   | 陰去 (à)  | 低音調  |    \_    |  棟  | tong3    | tong\_   |
+|  2   | 陰上 (á)  | 高降調  |    \     |  黨  | tong2    | tong\\   |
+|  5   | 陽平 (â)  | 低升調  |    /     |  同  | tong5    | tong/    |
+|  4   | 陰入 (ah) | 低促調  |    [     |  督  | tok4     | tok[     |
+|  8   | 陽入 (a̍h) | 高促調  |    ]     |  毒  | tok8     | tok]     |
+|  0   | 陰入 (ah) | 低促調  |    .     |  督  | tok0     | tok.     |
+|  0   | 陽入 (a̍h) | 高促調  |    .     |  毒  | tok0     | tok.     |
 
 ## 方音符號與 Unidoce 編碼
 
@@ -165,23 +165,21 @@ RIME 設定檔名稱為：`default.custom.yaml`，各作業系統之 RIME 設定
 某些字型不支援【方音符號】；或是會發顯示錯誤之問題。
 
 - 無法顯示【台語注音調號】
-
   - 陰去調：˪ U+02EA MODIFIER LETTER YIN DEPARTING TONE MARK
   - 陽去調：˫ U+02EB MODIFIER LETTER YANG DEPARTING TONE MARK
 
 - 無法顯示入聲韻尾符號/或是將 ㆻ 顯示成 ㆶ
-
   - ㆴ U+31B4 BOPOMOFO FINAL LETTER P
   - ㆵ U+31B5 BOPOMOFO FINAL LETTER T
   - ㆶ U+31B6 BOPOMOFO FINAL LETTER K
   - ㆷ U+31B7 BOPOMOFO FINAL LETTER H
-  - ㆻ  U+31BB BOPOMOFO FINAL LETTER G（收錄於2020年Unicode v.13，當下多數作業系統內建字體都尚未添加此字）
+  - ㆻ U+31BB BOPOMOFO FINAL LETTER G（收錄於2020年Unicode v.13，當下多數作業系統內建字體都尚未添加此字）
 
 ### 查檢工具
 
 想確認某字型是否支援【方音符號】，可借助 Windows 11 內附之軟體工具：[字元對應表](https://support.microsoft.com/zh-tw/office/%E6%8F%92%E5%85%A5-ascii-%E6%88%96-unicode-%E6%8B%89%E4%B8%81%E6%96%87%E5%9E%8B%E7%9A%84%E7%AC%A6%E8%99%9F%E5%92%8C%E5%AD%97%E5%85%83-%E6%A9%9F%E5%99%A8%E7%BF%BB%E8%AD%AF-d13f58d3-7bcb-44a7-a4d5-972ee12e50e0)。
 
-  ![字元對應表](https://support.microsoft.com/images/zh-tw/a4457ac1-c86e-480d-8ee5-96a618b0f0c0?format=avif&w=800)
+![字元對應表](https://support.microsoft.com/images/zh-tw/a4457ac1-c86e-480d-8ee5-96a618b0f0c0?format=avif&w=800)
 
 **【操作方法】**：
 
@@ -212,3 +210,15 @@ RIME 設定檔名稱為：`default.custom.yaml`，各作業系統之 RIME 設定
 - [霞鶩文楷](https://github.com/lxgw/LxgwWenkaiTC)
 
 - [Fira Sans](https://github.com/mozilla/Fira)（羅馬拼音字母美化用字型）
+
+## 中州韻輸入方案參考範例
+
+- [Taigi-TPS 台語方音輸入法](https://github.com/YuRen-tw/rime-taigi-tps)
+
+- [rime-moetaigi 萌台語](https://github.com/whyjz/rime-moetaigi)
+
+- [RIME輸入法 - 閩南語輸入方案](https://github.com/a-thok/rime-hokkien)
+
+- [rime-hokkien-poj](https://github.com/yangwenbo99/rime-hokkien-poj)
+
+- []()
