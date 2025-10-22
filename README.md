@@ -93,6 +93,7 @@ RIME 設定檔名稱為：`default.custom.yaml`，各作業系統之 RIME 設定
 
 <img width="400" height="" alt="image" src="https://github.com/user-attachments/assets/ceeb0903-ab26-40f4-a5b0-41953c5e82d0" />
 
+
 <img width="400" height="" alt="image" src="https://github.com/user-attachments/assets/2a9bb132-a38b-4bf5-b289-d72c1ca5b6d7" />
 
 ### W聲調圖
