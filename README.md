@@ -11,15 +11,13 @@
 - 【輸入類型】：注音輸入法
 - 【注音符號】：極簡化方音符號，適合懶地背記按鍵位置的使用者。
 - 【特性簡介】：
-  1.  羅馬拼音字母，鼻化韻母採「前綴識別標示法」，如下行所示；
-  2.  【侯選清單】：採兩欄標示〔sⁿia5〕 【ㄒㄥㄧㄚˇ】；
-  3.  【聲調標示】：
+  1. 羅馬拼音字母，鼻化韻母採「前綴識別標示法」，如下行所示；
+  2. 【侯選清單】：採兩欄標示〔sⁿia5〕 【ㄒㄥㄧㄚˇ】；
+  3. 【聲調標示】：
       - 採【台羅八聲調】；
       - 使用數值標示聲調，以利閱讀。
 
 ![2025-10-21_20-34-31](https://github.com/user-attachments/assets/cb6beb1c-6b19-4a2f-abd1-1cb470ea4edb)
-
-
 
 ## 安裝作業
 
@@ -91,10 +89,11 @@ RIME 設定檔名稱為：`default.custom.yaml`，各作業系統之 RIME 設定
 
 ### 四聲八調調名與調值
 
-<img width="400" height="" alt="image" src="https://github.com/user-attachments/assets/ceeb0903-ab26-40f4-a5b0-41953c5e82d0" />
+<img align="top" width="400" height="" alt="image" src="https://github.com/user-attachments/assets/ceeb0903-ab26-40f4-a5b0-41953c5e82d0" />
 
+<br/><br/>
 
-<img width="400" height="" alt="image" src="https://github.com/user-attachments/assets/2a9bb132-a38b-4bf5-b289-d72c1ca5b6d7" />
+<img align="top" width="400" height="" alt="image" src="https://github.com/user-attachments/assets/2a9bb132-a38b-4bf5-b289-d72c1ca5b6d7" />
 
 ### W聲調圖
 
@@ -127,7 +126,6 @@ RIME 設定檔名稱為：`default.custom.yaml`，各作業系統之 RIME 設定
 | 7    | 陽去 (ㄚ˫) | 5        |  洞  |  tong7   |ㄊㆲ˫     |
 | 8    | 陽入 (ㄚ˙) | 7        |  毒  |  tok8    |ㄊㆦㆻ˙   |
 
-
 ## 拼音輸入法
 
 ### 鍵盤按鍵
@@ -147,8 +145,6 @@ RIME 設定檔名稱為：`default.custom.yaml`，各作業系統之 RIME 設定
 | 8    | 陽入 (a̍h)  | 高促調   | ]        |  毒  |  tok8    | tok]     |
 | 0    | 陰入 (ah)  | 低促調   | .        |  督  |  tok0    | tok.     |
 | 0    | 陽入 (a̍h)  | 高促調   | .        |  毒  |  tok0    | tok.     |
-
-
 
 ## 方音符號與 Unidoce 編碼
 
@@ -198,6 +194,7 @@ RIME 設定檔名稱為：`default.custom.yaml`，各作業系統之 RIME 設定
 **【參考文章】**：
 
 - [用Ruby，寫台語](https://bobtung.medium.com/%E7%94%A8ruby-%E5%AF%AB%E5%8F%B0%E8%AA%9E-3a1e3ed9bf3c)
+
 ## 字形
 
 以下建議使用之字形，均為開源、免費字形：
