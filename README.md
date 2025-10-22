@@ -179,7 +179,7 @@ RIME 設定檔名稱為：`default.custom.yaml`，各作業系統之 RIME 設定
 
 想確認某字型是否支援【方音符號】，可借助 Windows 11 內附之軟體工具：[字元對應表](https://support.microsoft.com/zh-tw/office/%E6%8F%92%E5%85%A5-ascii-%E6%88%96-unicode-%E6%8B%89%E4%B8%81%E6%96%87%E5%9E%8B%E7%9A%84%E7%AC%A6%E8%99%9F%E5%92%8C%E5%AD%97%E5%85%83-%E6%A9%9F%E5%99%A8%E7%BF%BB%E8%AD%AF-d13f58d3-7bcb-44a7-a4d5-972ee12e50e0)。
 
-![字元對應表](https://support.microsoft.com/images/zh-tw/a4457ac1-c86e-480d-8ee5-96a618b0f0c0?format=avif&w=800)
+<img width="484" height="578" alt="image" src="https://github.com/user-attachments/assets/78096200-45b0-4c90-a615-2503cef13717" />
 
 **【操作方法】**：
 
@@ -221,4 +221,4 @@ RIME 設定檔名稱為：`default.custom.yaml`，各作業系統之 RIME 設定
 
 - [rime-hokkien-poj](https://github.com/yangwenbo99/rime-hokkien-poj)
 
-- []()
+
