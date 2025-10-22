@@ -87,7 +87,7 @@ RIME 設定檔名稱為：`default.custom.yaml`，各作業系統之 RIME 設定
 4. **重新部署 RIME 輸入法**：將作業系統使用中的輸入法，先切換成 RIME，再執行 RIME
    輸入法中的「重新部署」指令。
 
-### 四聲八調調名與調值
+### 四聲八調之調名、調號與五度標記調值
 
 <img align="top" width="400" height="" alt="image" src="https://github.com/user-attachments/assets/ceeb0903-ab26-40f4-a5b0-41953c5e82d0" />
 
