@@ -86,27 +86,68 @@ RIME 設定檔名稱為：`default.custom.yaml`，各作業系統之 RIME 設定
 
 <img width="979" height="666" alt="image" src="https://github.com/user-attachments/assets/428043cf-db8e-4908-9aae-b79dbe731008" />
 
-
 4. **重新部署 RIME 輸入法**：將作業系統使用中的輸入法，先切換成 RIME，再執行 RIME
    輸入法中的「重新部署」指令。
 
-## 輸入法鍵盤
-
-<img alt="image" src="https://github.com/user-attachments/assets/737558c8-e04d-458a-b3a7-2f5b601595f9" />
-
-## 聲調按鍵
-
-<img alt="image" src="https://github.com/user-attachments/assets/996c8da9-add8-4340-92bc-3273879f171d" />
-
 ### 四聲八調調名與調值
 
-<img width="970" height="337" alt="image" src="https://github.com/user-attachments/assets/ceeb0903-ab26-40f4-a5b0-41953c5e82d0" />
+<img width="400" height="" alt="image" src="https://github.com/user-attachments/assets/ceeb0903-ab26-40f4-a5b0-41953c5e82d0" />
 
-<img width="954" height="692" alt="image" src="https://github.com/user-attachments/assets/2a9bb132-a38b-4bf5-b289-d72c1ca5b6d7" />
+<img width="400" height="" alt="image" src="https://github.com/user-attachments/assets/2a9bb132-a38b-4bf5-b289-d72c1ca5b6d7" />
 
 ### W聲調圖
 
 <img alt="image" src="https://github.com/user-attachments/assets/dc785e8f-01f0-4d00-be7d-dc64275cc170" />
+
+### 聲調與按鍵對映
+
+<img alt="image" src="https://github.com/user-attachments/assets/996c8da9-add8-4340-92bc-3273879f171d" />
+
+## 注音輸入法
+
+### 方音符號
+
+<img alt="image" src="https://github.com/AlanJui/rime-tlpa/raw/main/docs/static/img/zu_im_hong_im.png" />
+
+### 方音符號按鍵
+
+<img alt="image" src="https://github.com/user-attachments/assets/737558c8-e04d-458a-b3a7-2f5b601595f9" />
+
+### 聲調按鍵
+
+| 調號 | 四聲八調   | 聲調按鍵 | 漢字 | 台語音標 | 按鍵輸入 |
+| :--: | :--------- | :------: | :--: | :------- | :------- |
+| 1    | 陰平 (ㄚ) | \<SP\>   |  東  |  tong1   |ㄊㆲ     |
+| 2    | 陰上 (ㄚˋ) | 4        |  黨  |  tong2   |ㄊㆲˋ     |
+| 3    | 陰去 (ㄚ˪) | 3        |  棟  |  tong3   |ㄊㆲ˪     |
+| 4    | 陰入 (ㄚ˙) | 7        |  督  |  tok4    |ㄊㆦㆻ    |
+| 5    | 陽平 (ㄚˊ) | 6        |  同  |  tong5   |ㄊㆲˊ     |
+| 6    | 陽上 (ㄚˋ) | 4        |  動  |  tong6   |ㄊㆲˋ     |
+| 7    | 陽去 (ㄚ˫) | 5        |  洞  |  tong7   |ㄊㆲ˫     |
+| 8    | 陽入 (ㄚ˙) | 7        |  毒  |  tok8    |ㄊㆦㆻ˙   |
+
+
+## 拼音輸入法
+
+### 鍵盤按鍵
+
+<img alt="image" src="https://github.com/AlanJui/rime-tlpa/raw/main/docs/static/img/ping_im_gian_buann.png" />
+
+## 聲調按鍵
+
+| 調號 | 四聲八調   | W聲調圖   | 聲調按鍵 |  漢字 | 台語音標  | 按鍵輸入 |
+| :--: | :--------- | :------ | :------: | :--: | :------- | :------- |
+| 1    | 陰平 (a)   | 高音調   | ;        |  東  |  tong1   | tong;    |
+| 7    | 陽去 (ā)   | 中音調   | -        |  洞  |  tong7   | tong-    |
+| 3    | 陰去 (à)   | 低音調   | _        |  棟  |  tong3   | tong_    |
+| 2    | 陰上 (á)   | 高降調   | \        |  黨  |  tong2   | tong\\   |
+| 5    | 陽平 (â)   | 低升調   | /        |  同  |  tong5   | tong/    |
+| 4    | 陰入 (ah)  | 低促調   | [        |  督  |  tok4    | tok[     |
+| 8    | 陽入 (a̍h)  | 高促調   | ]        |  毒  |  tok8    | tok]     |
+| 0    | 陰入 (ah)  | 低促調   | .        |  督  |  tok0    | tok.     |
+| 0    | 陽入 (a̍h)  | 高促調   | .        |  毒  |  tok0    | tok.     |
+
+
 
 ## 方音符號與 Unidoce 編碼
 
