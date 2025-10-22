@@ -108,16 +108,68 @@ RIME 設定檔名稱為：`default.custom.yaml`，各作業系統之 RIME 設定
 
 <img alt="image" src="https://github.com/user-attachments/assets/dc785e8f-01f0-4d00-be7d-dc64275cc170" />
 
+## 方音符號與 Unidoce 編碼
+
+### Unicode 編碼區段
+
+「方音符號」有專屬的 Unicode 區段：
+
+方音符號：U+31A0 ～ U+31BF
+
+注音符號：U+3100 ～ U+312F
+
+注音符號擴充：U+31A0 ～ U+31BF
+
+台灣方音符號補充（部分符號會在 Unicode Extensions 或 CJK 擴充區裡）
+
+### 瀏覽字型對方音符號的支援
+
+某些字型不支援【方音符號】；或是會發顯示錯誤之問題。
+
+- 無法顯示【台語注音調號】
+
+  - 陰去調：˪ U+02EA MODIFIER LETTER YIN DEPARTING TONE MARK
+  - 陽去調：˫ U+02EB MODIFIER LETTER YANG DEPARTING TONE MARK
+
+- 無法顯示入聲韻尾符號/或是將 ㆻ 顯示成 ㆶ
+
+  - ㆴ U+31B4 BOPOMOFO FINAL LETTER P
+  - ㆵ U+31B5 BOPOMOFO FINAL LETTER T
+  - ㆶ U+31B6 BOPOMOFO FINAL LETTER K
+  - ㆷ U+31B7 BOPOMOFO FINAL LETTER H
+  - ㆻ  U+31BB BOPOMOFO FINAL LETTER G（收錄於2020年Unicode v.13，當下多數作業系統內建字體都尚未添加此字）
+
+### 查檢工具
+
+想確認某字型是否支援【方音符號】，可借助 Windows 11 內附之軟體工具：[字元對應表](https://support.microsoft.com/zh-tw/office/%E6%8F%92%E5%85%A5-ascii-%E6%88%96-unicode-%E6%8B%89%E4%B8%81%E6%96%87%E5%9E%8B%E7%9A%84%E7%AC%A6%E8%99%9F%E5%92%8C%E5%AD%97%E5%85%83-%E6%A9%9F%E5%99%A8%E7%BF%BB%E8%AD%AF-d13f58d3-7bcb-44a7-a4d5-972ee12e50e0)。
+
+  ![字元對應表](https://support.microsoft.com/images/zh-tw/a4457ac1-c86e-480d-8ee5-96a618b0f0c0?format=avif&w=800)
+
+**【操作方法】**：
+
+勾選「進階檢視」，告知【字元對應表】軟體，您需使用此方面之功能。然後，在【到 Unicode】欄位，輸入【方音符號】區塊的【起始編碼】：【31A0】，即可定位到 Unicode 字元所對應到的字形樣式。最後，按下【選取】指令按鈕，便能以較舒適的方式檢視及確認。
+
+- U+3100 → 注音符號區塊開始
+
+- U+31A0 → 方音符號區塊開始
+
+**【參考文章】**：
+
+- [用Ruby，寫台語](https://bobtung.medium.com/%E7%94%A8ruby-%E5%AF%AB%E5%8F%B0%E8%AA%9E-3a1e3ed9bf3c)
 ## 字形
 
 以下建議使用之字形，均為開源、免費字形：
 
-- [思源黑體](https://github.com/adobe-fonts/source-han-sans)
+- [吳守禮台語注音字型](https://xiaoxue.iis.sinica.edu.tw/download/wsl_tps_font.htm)
 
-- [Noto Sans Traditional Chinese](https://fonts.google.com/noto/specimen/Noto+Sans+TC)
+- [思源宋體字（Noto Serif Traditional Chinese](https://fonts.google.com/noto/specimen/Noto+Serif+TC)
 
-- [字咍](https://github.com/ButTaiwan/taigivs/releases)
+- [思源黑體字（Noto Sans Traditional Chinese）](https://fonts.google.com/noto/specimen/Noto+Sans+TC)
+
+- [字咍字咍台語字型](https://buttaiwan.github.io/taigivs/intro)
 
 - [豆腐烏](https://github.com/glll4678/tshiuthau)
 
-- [Fira Sans](https://github.com/mozilla/Fira)
+- [霞鶩文楷](https://github.com/lxgw/LxgwWenkaiTC)
+
+- [Fira Sans](https://github.com/mozilla/Fira)（羅馬拼音字母美化用字型）
