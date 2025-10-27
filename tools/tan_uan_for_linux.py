@@ -7,7 +7,8 @@
 import re
 
 import pandas as pd
-from caas_jupyter_tools import display_dataframe_to_user  # 只在沙盒顯示用
+
+# from caas_jupyter_tools import display_dataframe_to_user  # 只在沙盒顯示用
 from openpyxl import load_workbook
 from openpyxl.styles import Font, PatternFill
 
@@ -76,7 +77,7 @@ wb.save(OUTPUT_PATH)
 
 # 沙盒顯示前 30 筆
 display_cols = list(df.columns[:5])
-display_dataframe_to_user("調整後台羅音標：預覽前 30 筆", df.loc[:29, display_cols])
+# display_dataframe_to_user("調整後台羅音標：預覽前 30 筆", df.loc[:29, display_cols])
 
 {
     "input_path": INPUT_PATH,
