@@ -47,7 +47,7 @@ RIME 在不同作業系統之間，各有不同的「軟體套件名稱」。其
    透過小狼毫提供之圖形介面（GUI）工具【輸入法設定】，安裝 RIME 輸入方案。
 
      <img alt="2025-10-02_13-33-12" src="https://github.com/user-attachments/assets/6eda9d74-14df-49b6-af03-9bbfb3adf662" />
-
+---
      
    1. 將中文輸入法切換成【小狼毫】。
 
