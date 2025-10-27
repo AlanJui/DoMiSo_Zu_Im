@@ -82,7 +82,8 @@ RIME 設定檔名稱為：`default.custom.yaml`，各作業系統之 RIME 設定
 
 - 中州韻(Linux)：`~/.config/ibus/rime/`
 
-<img width="979" height="666" alt="image" src="https://github.com/user-attachments/assets/428043cf-db8e-4908-9aae-b79dbe731008" />
+<img width="979" height="666" alt="image" src="https://github.com/user-attachments/assets/b8f2ab26-0bca-45fc-bd46-5fc56b243965" />
+
 
 4. **重新部署 RIME 輸入法**：將作業系統使用中的輸入法，先切換成 RIME，再執行 RIME
    輸入法中的「重新部署」指令。
