@@ -24,9 +24,9 @@ columns:
   - stem
   - create
 import_tables:
-  - DoMiSo_kah_kut_bun	      # 甲骨文考證漢字庫
-  # - DoMiSo_peh_ue_cu_ting	    # 個人自訂擴充字庫
-  # - DoMiSo_bun_thok	          # 文讀音字（雅俗通十五音）
+  - DoMiSo_kah_kut_bun	  # 甲骨文考證漢字庫
+  - DoMiSo_cu_ting	      # 個人自訂擴充字庫
+  # - DoMiSo_bun_thok	    # 文讀音字（雅俗通十五音）
 ...
 熱	juah8	0.8	NA	2025-02-11 11:16:03
 日	jit8	0.8	NA	2025-02-11 11:16:03
