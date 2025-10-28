@@ -47,27 +47,35 @@ RIME 在不同作業系統之間，各有不同的「軟體套件名稱」。其
    透過小狼毫提供之圖形介面（GUI）工具【輸入法設定】，安裝 RIME 輸入方案。
 
      <img alt="2025-10-02_13-33-12" src="https://github.com/user-attachments/assets/6eda9d74-14df-49b6-af03-9bbfb3adf662" />
+---
+     
    1. 將中文輸入法切換成【小狼毫】。
 
-     <img alt="image" src="https://github.com/user-attachments/assets/68b7892d-15dd-46db-93f0-51b1ea6d896b" />
+  <img alt="image" src="https://github.com/user-attachments/assets/68b7892d-15dd-46db-93f0-51b1ea6d896b" />
+
    2. 將滑鼠指標指向【小狼毫輸入法】圖示，按下【滑鼠右鍵】。
 
-     <img alt="image" src="https://github.com/user-attachments/assets/97257079-fcf6-42a8-a77d-f2a24d396b31" />
+  <img alt="image" src="https://github.com/user-attachments/assets/97257079-fcf6-42a8-a77d-f2a24d396b31" />
+     
    3. 自【快顯功能表】選擇【輸入法設定】指令。
 
-     <img alt="image" src="https://github.com/user-attachments/assets/15471158-5944-4f6d-aa19-2442f75d3745" />
+  <img alt="image" src="https://github.com/user-attachments/assets/15471158-5944-4f6d-aa19-2442f75d3745" />
+
    4. 在【方案選單】可瀏覽已安裝之小狼毫輸入方案。
 
-     <img alt="image" src="https://github.com/user-attachments/assets/d8aa05ab-6694-4544-8df4-f7348115d0c8" />
+  <img alt="image" src="https://github.com/user-attachments/assets/d8aa05ab-6694-4544-8df4-f7348115d0c8" />
+  
    5. 點擊【核取方塊】，當呈現【勾選】狀態，表小狼毫【啟用】該輸入方案；若呈現【取消】狀態，表小狼毫【停用】該輸入方案。
 
-     <img alt="image" src="https://github.com/user-attachments/assets/ffd4f783-b622-4aa9-a039-215d5b6840f1" />
+  <img alt="image" src="https://github.com/user-attachments/assets/ffd4f783-b622-4aa9-a039-215d5b6840f1" />
+  
    6. 點擊【中】按鈕，完成【小狼毫輸入方案】之【啟用/停用】設定。
 
-     <img alt="image" src="https://github.com/user-attachments/assets/663fd80a-d2a1-4383-823f-cd38150393ca" />
+  <img alt="image" src="https://github.com/user-attachments/assets/663fd80a-d2a1-4383-823f-cd38150393ca" />
+
    7. 自視窗之左側，先選用【小狼毫介面風格】，然後再按【中】按鈕，完成設定。
 
-     <img alt="image" src="https://github.com/user-attachments/assets/fb454f75-eb96-4acf-bd4f-bffe095cbbee" />
+  <img alt="image" src="https://github.com/user-attachments/assets/fb454f75-eb96-4acf-bd4f-bffe095cbbee" />
 
 ---
 
