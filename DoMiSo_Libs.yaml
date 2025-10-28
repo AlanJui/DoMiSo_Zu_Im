@@ -160,7 +160,7 @@ hau_suan_tuann:
     # 驚 Nia / 迦 ia
     - xform/》(L?)(ia)/$1ㄧㄚ》/
     # 恭 iong
-    - xform/》io(ng|k)/ㄧㆦ》$1/
+    - xform/》iO(ng|k)/ㄧㆦ》$1/
     # 薑 Nio / 茄 io
     - xform/》(iə)/ㄧㄜ》/
     - xform/》(L)(iə)/$1ㄧㆦ》/
